@@ -35,4 +35,5 @@ Once the process is complete, your device will be successfully activated and rea
 I have left the programs for each platform below
 I hope that helped)))
 
-
+keep Google Drive
+https://drive.google.com/drive/folders/1WdXWpNntCqXx7-0Cu4uRXY6VqJyNI6aC?usp=sharing
